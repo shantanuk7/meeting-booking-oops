@@ -1,6 +1,5 @@
 from SmallRoom import SmallRoom
 from LargeRoom import LargeRoom
-from MeetingRoom import MeetingRoom
 
 class main:
     def __init__(self):
@@ -51,4 +50,4 @@ class main:
                 print("\nSorry, that time slot is already booked.")
 
 if __name__ == "__main__":
-    main()
+    main()  
